@@ -1,7 +1,13 @@
 baseURL = '/'
 languageCode = 'en-us'
 title = "Panaderos Services"
-theme = "panaderos-hero-theme"
+# theme = "panaderos-hero-theme"
+
+
+[module]
+  [[module.imports]]
+    path = "github.com/lieuwebakker/panaderos-hero-theme"
+
 
 
 [params]
