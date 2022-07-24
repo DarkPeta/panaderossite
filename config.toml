@@ -1,4 +1,4 @@
-baseURL = 'https://'
+baseURL = '/'
 languageCode = 'en-us'
 title = "Panaderos Services"
 # theme = "panaderos-hero-theme"
@@ -6,7 +6,7 @@ title = "Panaderos Services"
 
 [module]
   [[module.imports]]
-    path = "github.com/lieuwebakker/panaderos-hero-theme"
+    path = "https://github.com/lieuwebakker/panaderos-hero-theme"
 
 
 
