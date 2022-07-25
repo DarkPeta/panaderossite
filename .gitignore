@@ -1,3 +1,5 @@
 .env
 public
 themes
+node_modules
+resources
